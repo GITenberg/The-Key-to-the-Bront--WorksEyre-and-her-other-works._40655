@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40751'
     url: http://www.gutenberg.org/2009/agents/40751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40655#The-Key-to-the-Bront--WorksEyre-and-her-other-works.
 gutenberg_issued: '2012-09-03'
 gutenberg_type: Text
 identifiers:
