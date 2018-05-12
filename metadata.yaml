@@ -1,0 +1,27 @@
+_repo: The-Key-to-the-Bront--WorksEyre-and-her-other-works._40655
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malham-Dembleby, John
+    deathdate: 1951
+    gutenberg_agent_id: '40751'
+    url: http://www.gutenberg.org/2009/agents/40751
+description: ''
+gutenberg_issued: '2012-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brontë, Emily, 1818-1848'
+- !lcc 'PR'
+- !lcsh 'Brontë, Charlotte, 1816-1855'
+title: "The Key to the Brontë Works\r\nThe Key to Charlotte Brontë's 'Wuthering Heights,'\
+  \ 'Jane Eyre,' and her other works."
+url: http://www.gutenberg.org/ebooks/40655
